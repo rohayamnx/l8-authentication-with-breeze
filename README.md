@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://laravel.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/rohayamnx/assets/a8b75b29df010310d7f182d97dafe5de8e9cf48b/laravel-auth.svg" width="400" alt="Logo">
+        <img src="https://raw.githubusercontent.com/rohayamnx/l8-authentication-with-breeze/refs/heads/main/public/laravel-auth.svg" width="400" alt="Logo">
     </a>
 </p>
 
@@ -20,12 +20,6 @@ git clone https://github.com/rohayamnx/l8-authentication-with-breeze.git
 
 ```sh
 cd l8-authentication-with-breeze
-```
-
-### Install Dependencies
-
-```sh
-composer install
 ```
 
 ### Install Dependencies
@@ -78,9 +72,3 @@ php artisan serve
 ```sh
 http://localhost:8000
 ```
-
-# What You Should See
-
-Below is an example of the output you should see:
-
-![Screenshot of the application](public/output.png)
